@@ -15,7 +15,7 @@ public class AddNumbers {
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the integer a: "); // remote edit 1
+        System.out.println("Enter the integer a: "); // remote edit 2
         int a = sc.nextInt();
         System.out.println("Enter the integer b: ");
         int b = sc.nextInt();
